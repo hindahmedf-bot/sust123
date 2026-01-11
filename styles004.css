@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(125, 43, 43);
+    background-color: hsl(0, 33%, 78%);
+    text-align: center;
+}
+
+p {
+    background-color: rgb(223, 199, 162);
+    text-align: center;
+}

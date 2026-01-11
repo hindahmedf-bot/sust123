@@ -1,0 +1,17 @@
+
+input[type="text"], input[type="password"], input[type="Tel"] {
+    background-color: bisque;
+    margin: 10px;
+    border: rgb(220, 126, 126) 5px solid;
+    border-radius: 15px;
+}
+
+
+div h1 {
+    text-align: center;
+    border: rgb(80, 147, 112) 5px double;
+}
+
+div > h1 {
+    background-color: rgb(235, 235, 148);
+}

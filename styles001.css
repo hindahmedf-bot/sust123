@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 10px;
+}
+
+
+h1 {
+    color: rgb(65, 55, 43);
+    background-color: rgb(132, 211, 185);
+}
+
+
+p {
+    font-size: 20px;
+    color: bisque;
+    background-color: black;
+}
+
+.textCenter {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#notes {
+    border: red solid 11px;
+}

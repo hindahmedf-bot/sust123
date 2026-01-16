@@ -1,0 +1,10 @@
+
+body {
+   /*  background-color: bisque; */
+
+   /* background-image: linear-gradient(to bottom, rgb(212, 185, 136), rgb(46, 123, 162));
+   background-repeat: no-repeat; */
+
+   background-image: url("img/istockphoto-1355549849-612x612.jpg");
+   background-size: 400px;
+}

@@ -3,8 +3,20 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 /* li {
     list-style: none;
 } */
+
+img {
+            border: 5px rgb(120, 75, 48) solid;
+            border-radius: 15px;
+            box-shadow: 6px 6px 5px gray;
+        }
+
+        
+
+        
+    

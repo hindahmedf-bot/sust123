@@ -1,10 +1,16 @@
 h1 {
-    color: rgb(125, 43, 43);
-    background-color: hsl(0, 33%, 78%);
+    color: rgb(141, 38, 72);
+    background-color: hsl(329, 36%, 88%);
     text-align: center;
+    margin: 1;
+    padding: 0px;
 }
+
+
 
 p {
     background-color: rgb(223, 199, 162);
     text-align: center;
+     margin: 1;
+    padding: 4px;
 }

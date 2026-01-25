@@ -1,12 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>نموذج الزوار</title>
     <link rel="stylesheet" href="styles002.css">
+      <link rel="stylesheet" href="003-flex.css">
+      <link rel="stylesheet" href="002-fonts.css">
 </head>
 <body>
+     <nav>
+ <img src="img2/Logo4.jpg" alt="">
+  <a href="home.html">Home</a>
+ <a href="experiences.html">Experiences</a>
+ <a href="contact.html">Contacts</a>
+ <a href="portfolio.html">مكتبة الأعمال</a>
+ <a href="form.html">نموذج الزوار</a>
+ <a href="index.html">الصفحة الإفتتاحية</a>
+ </nav>
+
+     
+
+    <h1>نموذج الزوار</h1>
+     <form action="register.php">
+    <label for="username">name:</label>
+    <input type="text" id="username" name="username" required>
+    <br><br>
+
+    <label for="What's app number">What's app number:</label>
+    <input type="Tel" id="What's app number" name="What's app number" required>
+    <br><br>
+
+   تفاصيل المشروع:<br>
+    <textarea name="about" id="about" rows="4" cols="50"></textarea>
+    <br><br>
+    <input type="submit" value="Register">
+     </form>
+
      <h3>
         <a href="home.html">Home page</a>
     </h3>
@@ -25,21 +55,6 @@
      <h3>
         <a href="portfolio.html">مكتبة الأعمال</a>
     </h3>
-
-    <h1>نموذج الزوار</h1>
-     <form action="register.php">
-    <label for="username">name:</label>
-    <input type="text" id="username" name="username" required>
-    <br><br>
-
-    <label for="What's app number">What's app number:</label>
-    <input type="Tel" id="What's app number" name="What's app number" required>
-    <br><br>
-
-   :تفاصيل المشروع<br>
-    <textarea name="about" id="about" rows="4" cols="50"></textarea>
-    <br><br>
-    <input type="submit" value="Register">
-     </form>
+    
 </body>
 </html>

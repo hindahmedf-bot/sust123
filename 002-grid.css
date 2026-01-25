@@ -1,0 +1,22 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px 300px 300px;
+    gap: 35px;
+    margin: 1;
+    padding: 16px;
+}
+
+.container img {
+    height: 80%;
+}
+
+.container header {
+    background-color: antiquewhite;
+    grid-column: 1 / 5;
+    text-align: center;
+}
+
+.container div {
+    text-align: center;
+}

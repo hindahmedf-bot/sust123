@@ -1,8 +1,8 @@
 
 input[type="text"], input[type="password"], input[type="Tel"] {
-    background-color: bisque;
+    background-color: rgb(244, 225, 191);
     margin: 10px;
-    border: rgb(220, 126, 126) 5px solid;
+    border: rgb(156, 128, 95) 5px solid;
     border-radius: 15px;
 }
 
@@ -13,5 +13,9 @@ div h1 {
 }
 
 div > h1 {
-    background-color: rgb(235, 235, 148);
+    background-color: rgb(204, 204, 131);
+}
+
+body {
+    background-color: rgb(241, 222, 234);
 }

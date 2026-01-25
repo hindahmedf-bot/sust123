@@ -1,20 +1,27 @@
 * {
-    margin: 0;
-    padding: 10px;
+    margin: 1;
+    padding: 0px;
+}
+
+img {
+    padding: 0;
 }
 
 
 h1 {
     color: rgb(65, 55, 43);
-    background-color: rgb(132, 211, 185);
+    background-color: rgb(231, 210, 222);
 }
 
 
 p {
     font-size: 20px;
     color: bisque;
-    background-color: black;
+    background-color: rgb(71, 58, 43);
+    margin: 0;
+    padding: 12px;
 }
+
 
 .textCenter {
     text-align: center;
